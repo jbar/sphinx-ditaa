@@ -1,0 +1,5 @@
+sphinx-ditaa (1.0-0) sid; urgency=low
+
+  * Initial packaging of sphinx-ditaa 0.1. 
+
+ -- Jean-Jacques Brucker <jean-jacques.brucker@supersonicimagine.fr>  Mon, 25 Sep 2017 18:40:52 +0200
