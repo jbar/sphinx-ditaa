@@ -1,3 +1,9 @@
+sphinx-ditaa (0.2-0) sid; urgency=low
+
+  * New upstream release 0.2.
+
+ -- Jean-Jacques Brucker <jean-jacques.brucker@supersonicimagine.fr>  Tue, 26 Sep 2017 17:35:15 +0200
+
 sphinx-ditaa (1.0-0) sid; urgency=low
 
   * Initial packaging of sphinx-ditaa 0.1. 
